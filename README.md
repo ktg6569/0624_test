@@ -114,3 +114,14 @@
 
 
 ![image](https://github.com/user-attachments/assets/06565493-e11e-4c7c-be67-e78baf6aff98)
+
+
+## 2. About Python3
+
+![image](https://github.com/user-attachments/assets/d3382497-075e-445a-8e91-8016f500e96a)
+
+https://www.w3schools.com/
+
+```
+W3schools에서  파이썬 연습
+```
