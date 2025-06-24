@@ -41,4 +41,9 @@
 
 ## Markdown 문법
 
+
+
+## Colab 기초  
+
+
 ![image](https://github.com/user-attachments/assets/06565493-e11e-4c7c-be67-e78baf6aff98)
