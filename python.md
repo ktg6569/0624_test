@@ -16,7 +16,7 @@ W3schools에서  파이썬 연습
   탭과 스페이스를 섞어 쓰면 안 됩니다
   일관성 있게 스페이스 4개 또는 탭 사용
 
-  [image](https://github.com/user-attachments/assets/f56339aa-093a-42f5-8c83-461072c08b99)
+  ![image](https://github.com/user-attachments/assets/f56339aa-093a-42f5-8c83-461072c08b99)
 
 
 - 대소문자 구분
