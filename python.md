@@ -1,4 +1,4 @@
-## 2. About Python3
+## 2. About Python
 
 ![image](https://github.com/user-attachments/assets/d3382497-075e-445a-8e91-8016f500e96a)
 
