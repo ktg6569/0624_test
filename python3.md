@@ -8,7 +8,7 @@ https://www.w3schools.com/
 W3schools에서  파이썬 연습
 ```
 
-### Python에서 주의해야 할 점들
+## Python에서 주의해야 할 점들
 
     - 문법 관련 주의사항
       들여쓰기 (Indentation)
