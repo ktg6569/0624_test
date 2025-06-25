@@ -7,7 +7,9 @@ https://www.w3schools.com/
 ```
 W3schools에서  파이썬 연습
 ```
+
 ### Python에서 주의해야 할 점들
+
     - 문법 관련 주의사항
       들여쓰기 (Indentation)
       Python은 들여쓰기로 코드 블록을 구분합니다
@@ -21,7 +23,6 @@ W3schools에서  파이썬 연습
       Python은 대소문자를 구분합니다
       Print와 print는 완전히 다른 것
       ![image](https://github.com/user-attachments/assets/0e92634c-665d-412e-849f-aaaaae5365db)
-
 
 
 
