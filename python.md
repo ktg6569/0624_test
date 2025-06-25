@@ -9,22 +9,22 @@ W3schools에서  파이썬 연습
 ```
 
 ## Python에서 주의해야 할 점들
-
+d
     - 문법 관련 주의사항
       들여쓰기 (Indentation)
       Python은 들여쓰기로 코드 블록을 구분합니다
       탭과 스페이스를 섞어 쓰면 안 됩니다
       일관성 있게 스페이스 4개 또는 탭 사용
-
+d
       ![image](https://github.com/user-attachments/assets/f56339aa-093a-42f5-8c83-461072c08b99)
 
-
+d
     - 대소문자 구분
       Python은 대소문자를 구분합니다
       Print와 print는 완전히 다른 것
       ![image](https://github.com/user-attachments/assets/0e92634c-665d-412e-849f-aaaaae5365db)
 
-
+d
 
 
 변수와 데이터 타입
